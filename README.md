@@ -1,2 +1,2 @@
 # MyYT
-This is a project which tried to implement a clone of youtube. Cheking diff . Merge from dev 2.
+I'm dev 1 and I'm removing readme file and updating it here.
