@@ -1,2 +1,2 @@
 # MyYT
-This readme change is specefic to branch main2
+This readme change is comming from main2 as part of Merge request.
